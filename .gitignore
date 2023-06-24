@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/.pnp
+/.pnp/Users/rahulsekhar/React Project-2/netflix/node_modules
 .pnp.js
 
 # testing
